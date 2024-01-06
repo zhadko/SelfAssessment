@@ -1,62 +1,62 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🙋 explained
+  - Object: 📢 talked
   - this: 🙋 explained
-  - arrow function: 🙋 explained
-  - async function: 🎓 known
-  - call
-  - bind
-  - apply
+  - arrow function: 📢 talked
+  - async function: 📢 talked
+  - call: 🎓 known
+  - bind: 🎓 known
+  - apply: 🎓 known
   - instanceof: 🙋 explained
   - ...spread
   - ...rest
   - typeof: 🙋 explained
-  - destructuring
+  - destructuring: 🎓 known
   - generator: 🙋 explained
   - iterator: 🙋 explained
-  - async generator
-  - async iterator
-  - chaining
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
+  - chaining: 🎓 known
   - optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window: 👂 heard
-  - getters and setters: 🎓 known
-  - __proto__
-  - prototype
+  - global: 🎓 known
+  - globalThis: 🎓 known
+  - window:: 🎓 known
+  - getters and setters: 🙋 explained
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
   - equality operators: 🙋 explained
   - logical operators: 🙋 explained
-  - bitwise operators: 👂 heard
-  - ternary operator: 👂 heard
-  - void: 👂 heard
-  - yield: 👂 heard
-  - await: 👂 heard
-  - template literal
+  - bitwise operators: 🙋 explained
+  - ternary operator: 🙋 explained
+  - void: 📢 talked
+  - yield: 📢 talked
+  - await: 📢 talked
+  - template literal: 👂 heard
   - strict mode: 🙋 explained
   - delete: 🎓 known
   - in: 👂 heard
-  - super: 🎓 known
+  - super: 🙋 explained
   - Symbol: 🎓 known
   - Reflect
 - Statements
   - if: 🙋 explained
   - while: 🙋 explained
   - do..while: 👂 heard
-  - for: 🎓 known
+  - for: 🙋 explained
   - for..in
   - for..of: 🙋 explained
   - for await
-  - throw: 🎓 known
-  - break: 🎓 known
-  - continue: 🎓 known
-  - import: 👂 heard
-  - export
+  - throw: 🙋 explained
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🎓 known
+  - export: 🎓 known
   - label
   - try..catch: 🙋 explained
   - switch: 🙋 explained
-  - class: 👂 heard
+  - class: 🖐️ used
   - new Error
   - with
 - Functions
@@ -67,23 +67,23 @@
   - functional object
 - Data structures
   - Array: 🙋 explained
-  - mixin
-  - extend
+  - mixin: 🎓 known
+  - extend: 👂 heard
   - typed arrays
-  - Map: 🎓 known
-  - Set: 🎓 known
+  - Map: 🙋 explained
+  - Set: 🙋 explained
   - undefined: 🙋 explained
   - null: 🙋 explained
-  - Proxy
+  - Proxy: 👂 heard
   - weak collections: 👂 heard 
   - timers
   - EventEmitter
-  - RegExp: 🎓 known
-  - Date: 🎓 known
-  - BigInt: 🎓 known
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
   - V8
-  - Node.js: 👂 heard
-  - npm: 👂 heard
-  - prettier: 👂 heard
-  - MDN: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 📢 talked
+  - MDN: 🖐️ used

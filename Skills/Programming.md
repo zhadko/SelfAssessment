@@ -2,48 +2,48 @@
 
 - Syntax and concepts
   - value: 🙋 explained
-  - identifier: 🎓 known
+  - identifier: 🙋 explained
   - variable: 🙋 explained
   - constant: 🙋 explained
   - scalar
   - literal
-  - expression: 🎓 known
+  - expression: 🖐️ used
   - heap
-  - function: 🙋 explained
-  - procedure: 👂 heard
-  - method: 🙋 explained
-  - class: 🙋 explained
+  - function: 📢 talked
+  - procedure: 🎓 known
+  - method: 📢 talked
+  - class: 📢 talked
   - prototype
-  - event
+  - event: 🖐️ used
   - type: 🙋 explained
-  - primitive types: 👂 heard
+  - primitive types: 🎓 known
   - reference types: 👂 heard
   - flag
-  - lexical scope
+  - lexical scope: 🖐️ used
   - code block: 🙋 explained
-  - conditions
+  - conditions: 👂 heard
   - loops: 🙋 explained
-  - assignment
+  - assignment: 🎓 known
   - regular expression
-  - interface: 🎓 known
+  - interface: 🙋 explained
   - contract
-  - module: 👂 heard
-  - call stack
+  - module: 🎓 known
+  - call stack: 👂 heard
 - Functions
-  - signature
+  - signature: 🎓 known
   - argument: 🙋 explained
   - parameter: 🙋 explained
-  - pure function: 👂 heard
+  - pure function: 📢 talked
   - lambda expression: 👂 heard
-  - side effects
+  - side effects: 👂 heard
   - closure
   - partial application
   - curry
   - higher order
-  - recursion: 🙋 explained
-  - callback: 👂 heard
-  - listener
-  - compose
+  - recursion: 📢 talked
+  - callback: 🎓 known
+  - listener: 👂 heard
+  - compose: 👂 heard
   - pipe
   - memoize
   - wrapper: 👂 heard
@@ -51,26 +51,26 @@
   - monad
   - monoid
   - generator: 🙋 explained
-  - coroutine: 👂 heard
+  - coroutine: 🎓 known
 - Data structures
   - array: 🎓 known
-  - structure: 🎓 known
+  - structure: 📢 talked
   - record
   - enum
   - instance: 🎓 known
-  - object: 🎓 known
-  - class: 🎓 known
+  - object: 📢 talked
+  - class: 📢 talked
   - collection: 🎓 known
   - set: 🎓 known
-  - hash table: 👂 heard
+  - hash table: 📢 talked
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue: 🙋 explained
-  - stack: 👂 heard
+  - queue: 📢 talked
+  - stack: 📢 talked
   - deque
-  - tree: 🎓 known
+  - tree: 🙋 explained
   - graph: 🙋 explained
   - iterator: 🙋 explained
   - mutable state
@@ -81,26 +81,26 @@
   - compiler: 🙋 explained
   - transpiler: 👂 heard
   - linter: 👂 heard
-  - polyfill: 👂 heard
-  - debugger: 🙋 explained
-  - garbage collection: 👂 heard
-  - refactoring: 👂 heard
+  - polyfill: 🎓 known
+  - debugger: 📢 talked
+  - garbage collection: 🎓 known
+  - refactoring: 🙋 explained
   - code review: 🙋 explained
-  - antipatterns: 👂 heard
-  - paradigm: 🙋 explained
-  - algorithm: 🙋 explained
-  - magic numbers: 👂 heard
-  - hardcode: 🙋 explained
-  - complexity
+  - antipatterns: 📢 talked
+  - paradigm: 📢 talked
+  - algorithm: 📢 talked
+  - magic numbers: 🎓 known
+  - hardcode: 📢 talked
+  - complexity: 👂 heard
   - decomposition
-  - spaghetti
+  - spaghetti: 🎓 known
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code: 🙋 explained
+  - dead code: 👂 heard
+  - unreachable code: 👂 heard
+  - duplicate code: 📢 talked
   - exception: 🙋 explained
   - return early
-  - unittest: 🎓 known
-  - git: 🙋 explained
-  - github: 🙋 explained
+  - unittest: 🙋 explained
+  - git: 📢 talked
+  - github: 📢 talked

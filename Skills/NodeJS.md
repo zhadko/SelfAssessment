@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 👂 heard
+  - Strong and weak sides of node.js: 📢 talked
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
@@ -11,9 +11,9 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules: 📢 talked
   - ECMAScript modules
-  - node:module
+  - node:module: 📢 talked
   - Caching in CJS and ESM
   - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm
@@ -26,21 +26,21 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
+  - Command line arguments: 📢 talked
+  - Node.js CLI: 📢 talked
+  - Process-based permissions: 📢 talked
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
+  - Streams API: 📢 talked
+  - Web Streams API: 📢 talked
+  - Crypto API: 📢 talked
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
-  - Worker threads
+  - Worker threads: 📢 talked
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
@@ -66,14 +66,14 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID: 🎓 known
-  - GoF patterns
-  - Distributed systems
+  - GRASP: 📢 talked
+  - SOLID: 📢 talked
+  - GoF patterns: 📢 talked
+  - Distributed systems: 📢 talked
   - Highload applications
-  - Clean architecture: 👂 heard
+  - Clean architecture: 📢 talked
   - DDD
-  - Message Queue: 🎓 known
+  - Message Queue: 📢 talked
   - CQS
   - CQRS
   - Event sourcing
@@ -85,50 +85,50 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling: 🎓 known
-  - HTTP(S): 🙋 explained
-  - TCP/SSL: 🙋 explained
-  - UDP
-  - TLS
-  - Websocket: 🎓 known
+  - Endpoint throttling: 🙋 explained
+  - HTTP(S): 📢 talked
+  - TCP/SSL: 📢 talked
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🙋 explained
   - SSE
   - HTTP/3 (QUIC)
   - Long polling: 🙋 explained
-  - REST: 🙋 explained
+  - REST: 📢 talked
   - RPC
   - Routing: 🖐️ used
-  - DoS
-  - DDoS: 🎓 known
+  - DoS: 🎓 known
+  - DDoS: 📢 talked
   - XSS
   - Path traversal
-  - CSRF: 🎓 known
-  - DNS: 🎓 known
+  - CSRF: 📢 talked
+  - DNS: 📢 talked
   - Fetch API: 🎓 known
   - IncomingMessage
-  - SQL injection: 👂 heard
+  - SQL injection: 🎓 known
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates: 🎓 known
+  - SSL certificates: 🖐️ used
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging: 🖐️ used
+  - Logging: 📢 talked
   - Application configuring
-  - Testing: 🎓 known
-  - CI/CD: 👂 heard
-  - Readable
-  - Writable
+  - Testing: 📢 talked
+  - CI/CD: 📢 talked
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - back pressure
-  - Buffer: 👂 heard
+  - Buffer: 🎓 known
   - Console: 🖐️ used
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Inspector: 👂 heard
+  - Reliability: 👂 heard
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
   - Data access layer
   - Repository
@@ -136,27 +136,27 @@
   - Query builder: 👂 heard
   - Object-Relational Mapping: 🎓 known
 - Error handling and debugging
-  - Error: 🎓 known
-  - error.cause: 🎓 known
-  - error.code: 🎓 known
-  - error.message: 🎓 known
+  - Error: 🖐️ used
+  - error.cause: 🖐️ used
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
   - error.stack: 🎓 known
-  - How to avoid mixins
+  - How to avoid mixins: 🎓 known
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions: 🎓 known
   - Heap dump
-  - Debugging tools: 🎓 known
+  - Debugging tools: 📢 talked
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 📢 talked
   - Resource leaks
-  - Data race: 👂 heard
+  - Data race: 📢 talked
 - Integrations and bindings
-  - Native addons
+  - Native addons: 👂 heard
   - C and C++ addons
   - Rust addons
   - Zig addons
-  - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
+  - NAN (Native Abstractions for Node.js): 👂 heard
+  - Node-API (formerly N-API): 👂 heard
   - NAPI C and C++
   - NAPI Rust
   - NAPI Zig
@@ -165,6 +165,6 @@
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
-  - Shared memory
+  - Shared memory: 👂 heard
   - SharedArrayBuffer
   - V8 binary serialization
