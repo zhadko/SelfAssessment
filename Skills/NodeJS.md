@@ -1,12 +1,12 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -15,13 +15,13 @@
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 👂 heard
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -67,13 +67,13 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
-  - Clean architecture
+  - Clean architecture: 👂 heard
   - DDD
-  - Message Queue
+  - Message Queue: 🎓 known
   - CQS
   - CQRS
   - Event sourcing
@@ -85,45 +85,45 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - Endpoint throttling: 🎓 known
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - Long polling: 🙋 explained
+  - REST: 🙋 explained
   - RPC
-  - Routing
+  - Routing: 🖐️ used
   - DoS
-  - DDoS
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
-  - CSRF
-  - DNS
-  - Fetch API
+  - CSRF: 🎓 known
+  - DNS: 🎓 known
+  - Fetch API: 🎓 known
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🖐️ used
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing: 🎓 known
+  - CI/CD: 👂 heard
   - Readable
   - Writable
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 👂 heard
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -133,23 +133,23 @@
   - Data access layer
   - Repository
   - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Query builder: 👂 heard
+  - Object-Relational Mapping: 🎓 known
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🎓 known
+  - error.cause: 🎓 known
+  - error.code: 🎓 known
+  - error.message: 🎓 known
+  - error.stack: 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🎓 known
   - Flame graph
   - Memory leaks
   - Resource leaks
-  - Data race
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
   - C and C++ addons

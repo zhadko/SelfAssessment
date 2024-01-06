@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
+  - async function: 🎓 known
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof: 🙋 explained
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🙋 explained
   - destructuring
-  - generator
-  - iterator
+  - generator: 🙋 explained
+  - iterator: 🙋 explained
   - async generator
   - async iterator
   - chaining
@@ -22,68 +22,68 @@
   - IIFE
   - global
   - globalThis
-  - window
-  - getters and setters
+  - window: 👂 heard
+  - getters and setters: 🎓 known
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 👂 heard
+  - ternary operator: 👂 heard
+  - void: 👂 heard
+  - yield: 👂 heard
+  - await: 👂 heard
   - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
+  - strict mode: 🙋 explained
+  - delete: 🎓 known
+  - in: 👂 heard
+  - super: 🎓 known
+  - Symbol: 🎓 known
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 👂 heard
+  - for: 🎓 known
   - for..in
-  - for..of
+  - for..of: 🙋 explained
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw: 🎓 known
+  - break: 🎓 known
+  - continue: 🎓 known
+  - import: 👂 heard
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
   - functional object
 - Data structures
-  - Array
+  - Array: 🙋 explained
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🙋 explained
+  - null: 🙋 explained
   - Proxy
-  - weak collections
+  - weak collections: 👂 heard 
   - timers
   - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - RegExp: 🎓 known
+  - Date: 🎓 known
+  - BigInt: 🎓 known
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - Node.js: 👂 heard
+  - npm: 👂 heard
+  - prettier: 👂 heard
+  - MDN: 👂 heard
